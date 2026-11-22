@@ -1,3 +1,4 @@
 build/
 *.user
 .qtcreator/
+h3/h3b/CMakeLists.txt
